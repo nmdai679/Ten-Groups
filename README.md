@@ -1,2 +1,0 @@
-# game
-shooter game
