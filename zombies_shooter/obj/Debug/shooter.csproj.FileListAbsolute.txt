@@ -1,0 +1,45 @@
+D:\shooter\bin\Debug\shooter.exe.config
+D:\shooter\bin\Debug\shooter.exe
+D:\shooter\bin\Debug\shooter.pdb
+D:\shooter\obj\Debug\shooter.csproj.AssemblyReference.cache
+D:\shooter\obj\Debug\shooter.Properties.Resources.resources
+D:\shooter\obj\Debug\shooter.csproj.GenerateResource.cache
+D:\shooter\obj\Debug\shooter.csproj.CoreCompileInputs.cache
+D:\shooter\obj\Debug\shooter.exe
+D:\shooter\obj\Debug\shooter.pdb
+D:\shooter\obj\Debug\shooter.MainGame.resources
+D:\shooter\obj\Debug\shooter.frmNhap.resources
+D:\zombies_shooter\bin\Debug\shooter.exe.config
+D:\zombies_shooter\bin\Debug\shooter.exe
+D:\zombies_shooter\bin\Debug\shooter.pdb
+D:\zombies_shooter\obj\Debug\shooter.csproj.AssemblyReference.cache
+D:\zombies_shooter\obj\Debug\shooter.MainGame.resources
+D:\zombies_shooter\obj\Debug\shooter.frmNhap.resources
+D:\zombies_shooter\obj\Debug\shooter.Properties.Resources.resources
+D:\zombies_shooter\obj\Debug\shooter.csproj.GenerateResource.cache
+D:\zombies_shooter\obj\Debug\shooter.csproj.CoreCompileInputs.cache
+D:\zombies_shooter\obj\Debug\shooter.exe
+D:\zombies_shooter\obj\Debug\shooter.pdb
+D:\zombies_shooter\obj\Debug\Interop.MediaPlayer.dll
+D:\zombies_shooter\obj\Debug\Interop.WMLSS.dll
+D:\zombies_shooter\obj\Debug\Interop.WMPDXMLib.dll
+D:\zombies_shooter\obj\Debug\Interop.WMPLauncher.dll
+D:\zombies_shooter\obj\Debug\Interop.WMPLib.dll
+D:\zombies_shooter\obj\Debug\shooter.csproj.ResolveComReference.cache
+D:\source studio\zombies_shooter\bin\Debug\shooter.exe.config
+D:\source studio\zombies_shooter\bin\Debug\shooter.exe
+D:\source studio\zombies_shooter\bin\Debug\shooter.pdb
+D:\source studio\zombies_shooter\obj\Debug\shooter.csproj.AssemblyReference.cache
+D:\source studio\zombies_shooter\obj\Debug\Interop.MediaPlayer.dll
+D:\source studio\zombies_shooter\obj\Debug\Interop.WMLSS.dll
+D:\source studio\zombies_shooter\obj\Debug\Interop.WMPDXMLib.dll
+D:\source studio\zombies_shooter\obj\Debug\Interop.WMPLauncher.dll
+D:\source studio\zombies_shooter\obj\Debug\Interop.WMPLib.dll
+D:\source studio\zombies_shooter\obj\Debug\shooter.csproj.ResolveComReference.cache
+D:\source studio\zombies_shooter\obj\Debug\shooter.MainGame.resources
+D:\source studio\zombies_shooter\obj\Debug\shooter.frmNhap.resources
+D:\source studio\zombies_shooter\obj\Debug\shooter.Properties.Resources.resources
+D:\source studio\zombies_shooter\obj\Debug\shooter.csproj.GenerateResource.cache
+D:\source studio\zombies_shooter\obj\Debug\shooter.csproj.CoreCompileInputs.cache
+D:\source studio\zombies_shooter\obj\Debug\shooter.exe
+D:\source studio\zombies_shooter\obj\Debug\shooter.pdb
