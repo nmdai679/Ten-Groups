@@ -1,0 +1,36 @@
+D:\HDH\bin\Debug\HDH.exe.config
+D:\HDH\bin\Debug\HDH.exe
+D:\HDH\bin\Debug\HDH.pdb
+D:\HDH\obj\Debug\HDH.csproj.AssemblyReference.cache
+D:\HDH\obj\Debug\HDH.Home.resources
+D:\HDH\obj\Debug\HDH.Properties.Resources.resources
+D:\HDH\obj\Debug\HDH.csproj.GenerateResource.cache
+D:\HDH\obj\Debug\HDH.csproj.CoreCompileInputs.cache
+D:\HDH\obj\Debug\HDH.exe
+D:\HDH\obj\Debug\HDH.pdb
+D:\HDH\obj\Debug\HDH.PPCPU.resources
+D:\HDH\obj\Debug\HDH.NhapQt_RR.resources
+D:\HDH\obj\Debug\HDH.SS_ppcpu.resources
+D:\HDH\obj\Debug\HDH.ReplacePage.resources
+D:\HDH\obj\Debug\HDH.SS_ReplacePage.resources
+D:\HDH\obj\Debug\HDH.Banker.resources
+D:\HDH\obj\Debug\HDH.KT_Chuoiantoan.resources
+D:\HDH\obj\Debug\HDH.DPDIA.resources
+D:\HDH\obj\Debug\HDH.Anhnen.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.csproj.AssemblyReference.cache
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.exe.config
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.Banker.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.Anhnen.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.Home.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.DPDIA.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.KT_Chuoiantoan.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.NhapQt_RR.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.Properties.Resources.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.PPCPU.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.ReplacePage.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.SS_ppcpu.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.SS_ReplacePage.resources
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.csproj.GenerateResource.cache
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.csproj.CoreCompileInputs.cache
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.exe
+C:\Users\minhd\Documents\Zalo Received Files\HDH (1)\obj\Debug\HDH.pdb
