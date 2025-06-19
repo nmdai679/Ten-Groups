@@ -34,9 +34,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(982, 653);
             this.Name = "Anhnen";
             this.Text = "Anhnen";
+            this.Load += new System.EventHandler(this.Anhnen_Load);
             this.ResumeLayout(false);
 
         }

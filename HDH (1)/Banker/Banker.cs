@@ -135,7 +135,7 @@ namespace HDH
                     if (i < safeSequence.Count - 1) result += " -> ";
                 }
                 MessageBox.Show(result, "Kết quả", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                Form frm = new KT_Chuoiantoan(banker_temp.GetWorkHistory());
+                Form frm = new KT_Chuoiantoan(banker_temp.GetWorkHistory(), result.Substring(35));
                 frm.ShowDialog();
             }
             else

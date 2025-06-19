@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -32,8 +33,11 @@ namespace HDH
         private void Home_Load(object sender, EventArgs e)
         {
             timer.Enabled = true;
+            string iconPath = Path.Combine(Application.StartupPath, "icon.ico");
+            iconPath = Path.GetFullPath(iconPath);
+            this.Icon = new Icon(iconPath);
             Formchild(new Anhnen());
-        }
+        }        
 
         private void pPCPUToolStripMenuItem_Click(object sender, EventArgs e)
         {

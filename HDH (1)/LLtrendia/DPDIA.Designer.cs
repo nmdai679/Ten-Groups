@@ -260,7 +260,7 @@
             this.btn_dpdia_clook.Name = "btn_dpdia_clook";
             this.btn_dpdia_clook.Size = new System.Drawing.Size(108, 30);
             this.btn_dpdia_clook.TabIndex = 36;
-            this.btn_dpdia_clook.Text = "C-LOCK";
+            this.btn_dpdia_clook.Text = "C-LOOK";
             this.btn_dpdia_clook.UseVisualStyleBackColor = true;
             this.btn_dpdia_clook.Click += new System.EventHandler(this.btn_dpdia_clook_Click);
             // 

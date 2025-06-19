@@ -57,7 +57,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 423);
             this.Controls.Add(this.ss_ppcup_chart);
-            this.MaximizeBox = false;
             this.Name = "SS_ppcpu";
             this.Text = "SS_ppcpu";
             ((System.ComponentModel.ISupportInitialize)(this.ss_ppcup_chart)).EndInit();

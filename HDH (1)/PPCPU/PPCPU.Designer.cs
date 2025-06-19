@@ -81,6 +81,7 @@
             this.ppcpu_dtgv.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.ppcpu_dtgv_CellClick);
             this.ppcpu_dtgv.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.ppcpu_dtgv_CellEndEdit);
             this.ppcpu_dtgv.EditingControlShowing += new System.Windows.Forms.DataGridViewEditingControlShowingEventHandler(this.ppcpu_dtgv_EditingControlShowing);
+            this.ppcpu_dtgv.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ppcpu_dtgv_KeyPress);
             // 
             // TEN
             // 

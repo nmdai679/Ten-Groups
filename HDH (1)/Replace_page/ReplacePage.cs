@@ -145,7 +145,11 @@ namespace HDH
                         MessageBox.Show("File không đúng định dạng!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         return;
                     }
-
+                    if (int.Parse(lines[0]) <= 0)
+                    {
+                        MessageBox.Show("Số frame phải > 0!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
                     page.SetframeCount(int.Parse(lines[0]));
                     page.SetPages(lines[1]
                         .Split(new[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries)
@@ -223,10 +227,17 @@ namespace HDH
             {
                 if (int.TryParse(txt_repa_set.Text, out int kq))
                 {
-                    page.SetframeCount(kq);
-                    loadframe();
-                    txt_repa_set.Clear();
-                    Chaythuattoan();
+                    if (kq > 0)
+                    {
+                        page.SetframeCount(kq);
+                        loadframe();
+                        txt_repa_set.Clear();
+                        Chaythuattoan();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Frame phải > 0 ");
+                    }
                 }
                 else
                 {
@@ -244,6 +255,7 @@ namespace HDH
             page = new PageResult();
             loaddulieupage();
             loadframe();
+            pn_repa_vungthuchien.Controls.Clear();
         }
         #endregion
 

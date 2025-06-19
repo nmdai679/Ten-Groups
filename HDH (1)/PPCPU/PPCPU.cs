@@ -70,6 +70,10 @@ namespace HDH
 
         private void Loaddulieu_bottom(string a, double b, double c, double d)
         {
+            if(Thuattoan == "RR")
+            {
+                a += (" (Qt = " + Quantumtime.ToString() + ")");
+            }    
             lb_ppcpu_loai.Text = "Loại: " + a;
             lb_ppcpu_AVGWT.Text = "AVGWT: " + Math.Round(b, 6).ToString();
             lb_ppcpu_AVGTAT.Text = "AVGTAT: " + Math.Round(c, 6).ToString();
@@ -537,6 +541,15 @@ namespace HDH
             if (idrow == -1) return;
             Hienthidulieudong_txt(idrow);
         }
+
+        private void ppcpu_dtgv_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
         #endregion
+
     }
 }

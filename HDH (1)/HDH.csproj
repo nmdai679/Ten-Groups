@@ -87,6 +87,11 @@
     <Compile Include="PPCPU\NhapQt_RR.Designer.cs">
       <DependentUpon>NhapQt_RR.cs</DependentUpon>
     </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Replace_page\PageResult.cs" />
     <Compile Include="PPCPU\ProcessInfo.cs" />
     <Compile Include="PPCPU\ProcessManager.cs" />
@@ -121,6 +126,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Home\Anhnen.resx">
       <DependentUpon>Anhnen.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Home\Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
@@ -136,13 +142,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="PPCPU\PPCPU.resx">
       <DependentUpon>PPCPU.cs</DependentUpon>
     </EmbeddedResource>

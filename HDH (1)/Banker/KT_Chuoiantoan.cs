@@ -7,16 +7,24 @@ namespace HDH
 {
     public partial class KT_Chuoiantoan : Form
     {
-        public KT_Chuoiantoan(List<int[]> temp)
+        public KT_Chuoiantoan(List<int[]> temp, string stemp)
         {
             InitializeComponent();
-            ShowWorkTrace(temp);
+            ShowWorkTrace(temp, stemp);
         }
 
-        public void ShowWorkTrace(List<int[]> workList)
+        public void ShowWorkTrace(List<int[]> workList, string s_temp)
         {
             pn_bk_work.Controls.Clear();
-            int x = 10, y = 10;
+
+            Label lb = new Label();
+            lb.Text = s_temp;
+            lb.AutoSize = true;
+            lb.Font = new Font("Segoe UI", 10, FontStyle.Bold);
+            lb.Location = new Point(10, 10);
+            pn_bk_work.Controls.Add(lb);
+
+            int x = 10, y = 40;
             int colSpacing = 40;
             int rowSpacing = 35;
 
@@ -51,7 +59,6 @@ namespace HDH
                     arrow.Font = new Font("Segoe UI", 10, FontStyle.Bold);
                     arrow.AutoSize = true;
 
-                    // Canh giữa theo chiều ngang
                     int totalWidth = (work.Length - 1) * colSpacing;
                     arrow.Location = new Point(x + totalWidth / 2, y + 20);
 
